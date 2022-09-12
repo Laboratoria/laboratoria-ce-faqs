@@ -622,7 +622,7 @@ Si bien Laboratoria te comparte oportunidades laborales de manera constante. Es 
 
 ### ¿Cuáles son los salarios que han recibido las otras generaciones?
 
-En promedio las egresadas de Laboratoria han conseguido los siguientes salarios mensuales netos en 2021:
+En promedio las egresadas de Laboratoria EN DESARROLLO WEB han conseguido los siguientes salarios mensuales netos en 2021:
 
 🇲🇽 México:    17,500 pesos mexicanos
 
@@ -632,9 +632,15 @@ En promedio las egresadas de Laboratoria han conseguido los siguientes salarios 
 
 🇨🇱 Chile:     900,000 pesos chilenos
 
-Es importante que tomes en cuenta esto para hacer tu presupuesto, sobre todo si consideras la opción de cambiar de residencia para acceder a más oportunidades de empleo. 
+En promedio las egresadas de Laboratoria EN DESARROLLO UX DESIGN han conseguido los siguientes salarios mensuales netos:
 
-En su momento te compartiremos herramientas para que puedas explorar información histórica sobre salarios y tiempos de contratación en cada país. El equipo de Laboratoria siempre podrá acompañarte para resolver tus dudas de la industria y el mercado laboral.
+🇲🇽 México: 20,700 pesos mexicanos
+
+🇨🇴 Colombia: 2,660,000 pesos colombianos
+
+🇵🇪 Perú: 2,690 soles peruanos
+
+🇨🇱 Chile: 918,000 pesos chilenos
 
 ### ¿Qué pasa una vez que recibo una oferta?
 
