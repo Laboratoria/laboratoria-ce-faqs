@@ -83,13 +83,13 @@
 
   Además, deberás tener disponibilidad de tiempo; unas 3-4 horas extras al día, para poder avanzar con tus proyectos, es decir unas 8 horas al día en total. Es por esto que recomendamos a las postulantes que cuenten con disponibilidad completa durante los 6 meses del programa.  
 
-  Tenemos un horario único, determinado por el fuso horario de Perú(GMT -05:00). El horario en tu país puede cambiar, dependiendod el fuso en el que te encuentres. En la sección [PRÓXIMOS BOOTCAMPS](url) podrás verificar los horarios por país. Te sugerimos que estés atenta a los cambios de horario en verano e invierno.
+  Tenemos un horario único, determinado por el fuso horario de Perú (GMT-05:00). El horario en tu país puede cambiar, dependiendod el fuso en el que te encuentres. En la sección [PRÓXIMOS BOOTCAMPS](url) podrás verificar los horarios por país. Te sugerimos que estés atenta a los cambios de horario en verano e invierno.
 
-### ¿En qué sedes se ofrece el bootcamp de Laboratoria?
+ ### ¿En qué sedes se ofrece el bootcamp de Laboratoria?
 
-  Impartimos un bootcamp regional: Cualquier mujer que hable español y viva en Chile, Colombia, Ecuador, México o Perú, podrá postular a los bootcamps de Laboratoria y aprender en conjunto con todos las sedes integradas en una misma generación.
+Impartimos dos bootcamps regionales: Cualquier mujer que hable español y viva en Chile, Colombia, Ecuador, México o Perú podrá postular a los bootcamps de Laboratoria de Desarrollo Web y aprender en conjunto con todos las sedes integradas en una misma generación. Al bootcamp de Diseño UX podrán postular solo las mujeres que vivan en Chile, Colombia, México o Perú.
   
-  Además, impartimos otro bootcamp aparte para Brasil.
+  Además, impartimos otro bootcamp en portugués para Brasil, con sus propias fechas de inicio. 
 
 ### ¿Laboratoria ofrece una beca?
 
@@ -97,7 +97,7 @@
   
   Las egresadas empiezan a pagar el bootcamp desde el primer mes que reciben un sueldo en este nuevo empleo.
 
-  Nuestro programa capacita a mujeres en temas de desarrollo y diseño de páginas web. Bajo una metodología ágil orientada al aprendizaje, después de 6 meses ellas obtienen el perfil de Desarrolladoras Web Front End, o Diseñadoras UX. Al finalizar, las acompañamos en su búsqueda laboral, particularmente en el rubro tecnológico.
+  Nuestro programa capacita a mujeres en temas de desarrollo y diseño de páginas web. Bajo una metodología ágil orientada al aprendizaje, después de 6 meses ellas obtienen el perfil de Desarrolladoras Web Front End o Diseñadoras UX. Al finalizar, las acompañamos en su búsqueda laboral, particularmente en el rubro tecnológico.
 
   Es por eso que el programa no ofrece becas, porque aunque el costo inicial es cero, sí habrá pago al final, cuando la egresada consiga un trabajo donde aplique lo aprendido en el programa.
 
@@ -447,7 +447,8 @@ En general, las estudiantes de Laboratoria son mujeres que necesitan una oportun
   Debes ser mayor de 18 años al egresar del bootcamp y estar legalmente habilitada para trabajar en el país donde residas. Esto implica, si eres extranjera, tener residencia o permiso de trabajo.
 
   **Vivir en los países donde operamos**
-Actualmente este bootcamp está disponible en español en los siguientes países: Chile, Colombia, Ecuador, México y Perú.
+Actualmente el bootcamp de Desarrollo Web está disponible en español en los siguientes países: Chile, Colombia, Ecuador, México y Perú.
+Actualmente el bootcamp de Diseño UX está disponible en español en los siguientes países: Chile, Colombia, México y Perú.
 
   Si vives en un país que no está en esta lista, llena este [formulario](url) y te contactaremos tan pronto estemos disponibles en tu país.
 https://laboratoria.typeform.com/to/mMhN6v8u#cohortid=xxxxx&student=xxxxx&email=xxxxx
@@ -497,7 +498,7 @@ Si, pero recuerda que nuestro objetivo principal es la empleabilidad, es decir a
 
 ### ¿Cuál es el precio del programa?
 
-  El precio del programa es de USD 3,500 que podrás pagar hasta en 24 meses. Este monto se ajusta y fija a tu moneda local** de la siguiente manera:  
+  El precio del programa es de USD 3,500 y podrás pagarlo hasta en 24 meses. Este monto se ajusta y fija a tu moneda local** de la siguiente manera:  
  
 🇵🇪 Perú: S/. 13,200 soles
 
