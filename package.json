@@ -5,7 +5,7 @@
     "type": "git",
     "url": "https://github.com/Laboratoria/laboratoria-ce-faqs"
   },
-  "version": "0.2.3-plus",
+  "version": "0.2.4-fluency",
   "type": "module",
   "scripts": {
     "dev": "vite",
