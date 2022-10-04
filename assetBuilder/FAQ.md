@@ -1,5 +1,3 @@
-# Preguntas frecuentes
-
 ## ¿Para quién es laboratoria+?
 
 Laboratoria + es una comunidad exclusiva para mujeres, que busca impulsionar su desarrollo profesional, así como también, cerrar la brecha de género que existe en el en el mundo de la tecnología y puestos directivos, en donde muchas veces menos del 10% de las personas trabajadoras son mujeres.
