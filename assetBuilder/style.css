@@ -1,5 +1,5 @@
 h1 {
-  font-family: "Bitter";
+  font-family: "Albert Sans";
   font-weight: bold;
   text-align: -webkit-center;
 }
@@ -10,14 +10,14 @@ body {
 }
 
 a {
-  font-family: "Open Sans";
+  font-family: "Albert Sans";
   text-decoration: underline;
   font-weight: bolder;
   color: black;
 }
 
 details {
-  font-family: "Bitter";
+  font-family: "Albert Sans";
   margin: 0 auto ;
   border-radius: 5px;
   overflow: hidden;
@@ -25,7 +25,7 @@ details {
 
 details > *:not(:first-child) {
   font-size: 0.9907rem;
-  font-family: "Open Sans";
+  font-family: "Albert Sans";
   font-weight: normal;
 }
 
@@ -62,7 +62,7 @@ details[open] summary ~ * {
 
 p {
   margin-left: 40px;
-  font-family: "Open Sans";
+  font-family: "Albert Sans";
 }
 
 @keyframes growDown {

@@ -1,5 +1,3 @@
-# Preguntas frecuentes
-
 ## ¿Se requieren conocimientos previos en data?
 
 Este programa es introductorio y no requiere de conocimientos previos. Es ideal para mujeres profesional que:
