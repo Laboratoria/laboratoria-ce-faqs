@@ -566,32 +566,31 @@ Además de la experiencia de aprendizaje y transformación en la que desarrollar
 
 Hablamos del primer empleo tech, porque una vez que comienzas te darás cuenta que te quedará una gran carrera por delante, en la que conocerás muchos roles, tipos de empresas y culturas. En este primer empleo es importante estar abierta a comenzar para adquirir experiencia. Sugerimos no limitar demasiado tu búsqueda ya que tu primer empleo es el que te permitirá lograr tu plan de carrera futuro.
 
-### ¿Cómo me acompaña Laboratoria en mi preparación hacia la empleabilidad?
+### ¿Cómo me prepararé para la búsqueda de empleo?
 
-A lo largo de tu experiencia en Laboratoria, adquirirás las habilidades necesarias para encontrar un primer empleo en tecnología. Ademas implementaremos distintas actividades con el objetivo de potenciar tu empleabilidad y de conectarte con empresas de la industria. De manera que al terminar el bootcamp, estés lo más preparada para comenzar tu búsqueda de empleo.
+A lo largo de tu experiencia en Laboratoria, adquirirás las habilidades necesarias para encontrar un primer empleo en tecnología. Además implementaremos distintas actividades con el objetivo de potenciar tu empleabilidad y de conectarte con empresas de la industria. De manera que al terminar el bootcamp y posteriormente, estés lo más preparada para comenzar tu búsqueda de empleo.
 
-Algunas de las actividades y espacios que existen son:
+Algunas de las actividades y espacios que existen y que deberás aprovechar son:
 - Un proyecto en el que prepararás tu Curriculum Vitae, LinkedIn y Portafolio para UX Designers o Github para Web Developers.
 - Prácticas de entrevistas, y la oportunidad de simular las fases de un proceso de selección con mentores y profesionales de la industria. 
 - Sesiones para trabajar temas de empleabilidad específicos.
-- Eventos de conexión con empresas de la industria.
 - Charlas y talleres con profesionales de la industria.
 
-Nuestra máxima prioridad es que puedas afrontar esta etapa con conocimiento y profesionalismo, sin embargo tú siempre tomarás tus propias decisiones y el éxito del proceso dependerá 100% de tu nivel de involucramiento y compromiso con este.
+Nuestra máxima prioridad es que puedas afrontar esta etapa con conocimiento y profesionalismo, sin embargo tú siempre tomarás tus propias decisiones y el éxito del proceso dependerá 100% de tu nivel de involucramiento y compromiso con este.  
 
-### ¿En qué consiste el acompañamiento en la búsqueda de empleo?
+### ¿En qué consiste el proceso de búsqueda de empleo?
 
-Una vez que termine el bootcamp y estés lista para comenzar tu búsqueda de empleo, trabajaremos de forma colaborativa, e implementaremos más actividades para potenciar tu participación en los procesos de reclutamiento y en las actividades de conexión con la industria. 
+Una vez que termine el bootcamp y estés lista para comenzar tu búsqueda de empleo, trabajaremos de forma colaborativa, e implementaremos más actividades para potenciar tu participación en los procesos de reclutamiento y en las actividades de conexión con las empresas que quieran conocer tu talento. 
 
 Algunas de las actividades y espacios que existen son:
-- Espacios grupales de asesoría y acompañamiento que podrás aprovechar cuando surjan situaciones que no sepas resolver en tu búsqueda o en las entrevistas.
-- Te compartimos vacantes y te vinculamos con las empresas para que puedas participar en sus procesos de reclutamiento.
+- Espacios grupales donde compartiremos información sobre los procesos abiertos, el mercado y tips que podrás aprovechar cuando surjan situaciones que no sepas resolver en tu búsqueda o en las entrevistas.
+- Te vinculamos con algunas empresas para que puedan conocer tu talento y eventualmente participar en sus procesos de reclutamiento si es que lo desean. 
 - Te ayudamos a llevar un seguimiento durante tus procesos de reclutamiento y analizamos contigo el avance que tienes, así como las fases que requieren mejorar.
 - Te brindamos información y contexto del mercado laboral que te ayude a tomar las mejores decisiones para tu proceso de empleabilidad.
 
 ### ¿Laboratoria puede conectarme con empresas?
 
-Sí, a lo largo de la etapa de búsqueda de empleo estarás en contacto con posibles empleadores. Compartiremos tu información (CV, LinkedIn, Portafolio para UX Designers o Github para Web Developers) con las empresas que comparten vacantes con Laboratoria y sean de tu interés. Tendrás visibilidad de todas las vacantes que llegan a Laboratoria para que puedas elegir a cuales postular y ser candidata a participar en sus procesos de reclutamiento.
+Sí, a lo largo de la etapa de búsqueda de empleo Laboratoria podrá conectarte  con posibles empleadores. Si lo deseas, compartiremos tu información (CV, LinkedIn, Portafolio para UX Designers o Github para Web Developers) con las empresas que se ponen en contacto  con Laboratoria y sean de tu interés. Esto no significa que deberás esperar de Laboratoria que te coloque en una empresa, tu proactividad y búsqueda real de oportunidades es fundamental en este proceso. No aseguramos que las empresas abrirán vacantes en todo momento del año. Tendrás visibilidad de todas las oportunidades que llegan a Laboratoria para que puedas elegir a cuales postular y ser candidata a participar en sus procesos de reclutamiento.
 
 ### ¿Laboratoria me colocará y asegurará que obtendré un empleo?
 
@@ -605,15 +604,13 @@ Más del 85% de las egresadas de Laboratoria consiguen un empleo en tecnología.
 
 Son el conjunto de entrevistas y pruebas que tiene una empresa con el fin de elegir a las candidatas para cada puesto de trabajo. Cada empresa define su proceso de reclutamiento así como las fases que lo conforman.
 
-Laboratoria participa en el proceso compartiendo contigo las vacantes para que puedas decidir si postular o no. Luego, la empresa determina qué perfiles hacen el mejor match con la vacante y les invita a continuar con el proceso de selección que haya definido.
+Laboratoria puede participar en el proceso compartiendo contigo algunas vacantes para que puedas decidir si postular o no. En muchos casos, las egresadas participan en procesos que encontraron en el marco de su propia búsqueda de empleo. Luego, la empresa determina qué perfiles hacen el mejor match con la vacante y les invita a continuar con el proceso de selección que haya definido.
 
-### ¿Cuánto tiempo tendré de acompañamiento en la búsqueda de empleo por parte de Laboratoria?
+### ¿Cuánto tiempo tendré de apoyo en la búsqueda de empleo por parte de Laboratoria?
 
 Cada egresada tiene necesidades distintas para su primer empleo tech, por lo que para algunas la primera búsqueda puede durar 1 mes, para algunas otras, 3, 6 meses o más.
 
-Contarás con el acompañamiento de Laboratoria a lo largo de toda tu carrera. Incluso una vez que estés empleada, si después de un tiempo deseas explorar nuevas oportunidades puedes acercarte al equipo para retomar.
-
-Siempre contarás con la asesoría en empleabilidad y acompañamiento de Laboratoria.
+Contarás con el apoyo de Laboratoria a lo largo de toda tu carrera. Incluso una vez que estés empleada, si después de un tiempo deseas explorar nuevas oportunidades puedes acercarte al equipo para retomar el proceso y que recomendemos tu perfil. Es importante que te acerques proactivamente si lo necesitas. 
 
 ### ¿Cuáles son las empresas que han contratado egresadas de Laboratoria? ¿Siempre contratan?
 
@@ -623,7 +620,7 @@ Si bien Laboratoria te comparte oportunidades laborales de manera constante. Es 
 
 ### ¿Cuáles son los salarios que han recibido las otras generaciones?
 
-En promedio, las egresadas de Laboratoria EN DESARROLLO WEB han conseguido los siguientes salarios mensuales netos en 2021:
+En promedio las egresadas de Laboratoria  EN DESARROLLO WEB han conseguido los siguientes salarios mensuales netos en 2021:
 
 🇲🇽 México:    17,500 pesos mexicanos
 
@@ -633,7 +630,7 @@ En promedio, las egresadas de Laboratoria EN DESARROLLO WEB han conseguido los s
 
 🇨🇱 Chile:     900,000 pesos chilenos
 
-En promedio, las egresadas de Laboratoria EN UX DESIGN han conseguido los siguientes salarios mensuales netos:
+En promedio las egresadas de Laboratoria  EN UX DESIGN han conseguido los siguientes salarios mensuales netos:
 
 🇲🇽 México: 20,700 pesos mexicanos
 
@@ -643,11 +640,15 @@ En promedio, las egresadas de Laboratoria EN UX DESIGN han conseguido los siguie
 
 🇨🇱 Chile: 918,000 pesos chilenos
 
-### ¿Qué pasa una vez que recibo una oferta?
+Es importante que tomes en cuenta esto para hacer tu presupuesto, sobre todo si consideras la opción de cambiar de residencia para acceder a más oportunidades de empleo. 
+
+En su momento te compartiremos herramientas para que puedas explorar información histórica sobre salarios y tiempos de contratación en cada país. El equipo de Laboratoria siempre podrá acompañarte para resolver tus dudas de la industria y el mercado laboral.
+
+### ¿Qué pasa una vez que recibo una oferta de una empresa?
 
 Una vez que una empresa te ha hecho una oferta laboral, podemos conversar sobre las condiciones que te ofrecen, si hace match con tus expectativas y darte la asesoría que necesites para tomar la decisión de aceptarla o no.
 
-Una vez que decidas aceptarla, te integras a la empresa según el proceso que ella te indique. Será necesario que en este punto tengas toda tu documentación oficial al día y en la mayoría de los casos firmarás varios documentos con la empresa para que te contrate vía nómina o por honorarios. Al cabo de un mes comenzará tu modelo de repago del programa, te recomendamos visitar la sección de [Precio del programa](url) para resolver tus dudas al respecto.
+Una vez que decidas aceptarla, te integras a la empresa según el proceso que ella te indique. Será necesario que en este punto tengas toda tu documentación oficial al día y en la mayoría de los casos firmarás varios documentos con la empresa para que te contrate vía nómina o por honorarios. Al cabo de un mes comenzará tu modelo de repago del programa, te recomendamos visitar la sección de **Precio del programa** para resolver tus dudas al respecto.
 
 Finalmente, estarás recibiendo encuestas de seguimiento en las que buscaremos entender cómo te está yendo en tu primer empleo. Esta información es de vital importancia para Laboratoria y las futuras estudiantes.
 
