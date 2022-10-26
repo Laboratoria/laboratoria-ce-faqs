@@ -498,11 +498,11 @@ Si, pero recuerda que nuestro objetivo principal es la empleabilidad, es decir a
 
 ### ¿Cuál es el precio del programa?
 
-  El precio del programa es de USD 3,500 y podrás pagarlo hasta en 24 meses. Este monto se ajusta y fija a tu moneda local** de la siguiente manera:  
+El precio del programa es de USD 3,500 y podrás pagarlo hasta en 24 meses. Este monto se ajusta y fija a tu moneda local* de la siguiente manera:  
  
 🇵🇪 Perú: S/. 13,200 soles
 
-🇨🇱 Chile: $2.905.000 pesos chilenos*
+🇨🇱 Chile: $2.905.000 pesos chilenos**
 
 🇲🇽 México: $72,000 pesos mexicanos
 
@@ -510,17 +510,19 @@ Si, pero recuerda que nuestro objetivo principal es la empleabilidad, es decir a
 
 🇪🇨 Ecuador: USD 3,500 dólares americanos
 
+En Laboratoria buscamos lograr un impacto positivo en la vida de las mujeres que pasan por nuestro programa, logrando una mejora en sus ingresos y por ende en su futuro. Es por eso que, en caso de que la cuota a 24 meses exceda el 28% de tu remuneración mensual bruta, tendrás las siguientes opciones:
 
-En caso de que pagaras en menos de 18 meses, tendrás acceso a descuentos que van desde el 7.5% hasta el 15%.
- 
-En Laboratoria no tenemos intereses ni multas, por ello, si perdieras tu empleo podrás poner en pausa tus pagos hasta que cuentes con empleo nuevamente. 
- 
-Al iniciar el bootcamp firmaremos un convenio donde estableceremos tanto nuestros compromisos como los tuyos, así como el detalle de precios y descuentos descritos anteriormente. 
+- Pagar el 28% de tu remuneración mensual bruta por 24 meses, en caso de que tomes esta opción, no tendrás acceso a descuentos.
 
-* El tipo de cambio usado para fijarlo a tu moneda local se determina conforme al histórico de los últimos meses, podrán existir algunas variaciones entre las conversiones a moneda local con el tipo de cambio diario por  la fluctuación cambiaria.
- 
-** Si cuentas con un carnet de identidad vigente emitido por el Estado Chileno durante los meses que dure el bootcamp, podrás acceder a una beca del Estado Chileno. Aquí puedes conocer más detalles. (a)
+- Pago regular de 3,500 dólares americanos con opción a descuentos.
 
+Es importante mencionar que no tenemos intereses ni multas, por ello, si perdieras tu empleo tendrás la opción de poner en pausa tus pagos hasta que cuentes con empleo nuevamente.
+
+Al iniciar el bootcamp firmaremos un convenio donde estableceremos tanto nuestros compromisos como los tuyos, así como el detalle de precios y descuentos descritos anteriormente.
+
+[*] El tipo de cambio usado para fijarlo a tu moneda local se determina conforme al histórico de los últimos meses, podrán existir algunas variaciones entre las conversiones a moneda local con el tipo de cambio diario por la fluctuación cambiaria.
+
+[**] Si cuentas con un carnet de identidad vigente emitido por el Estado Chileno durante los meses que dure el bootcamp, podrás acceder a una beca del Estado Chileno. Aquí puedes conocer más detalles. (a)
 
 ### ¿Cuándo se paga a Laboratoria?
 
@@ -537,12 +539,15 @@ Gracias a los pagos que realizan las egresadas, Laboratoria puede seguir existie
 
 ### ¿Cómo funcionan los descuentos?
 
-Una vez que cuentes con tu nuevo empleo, elegirás el número de cuotas mensuales para realizar tu pago. 
- 
-En caso de que pagues en menos de 18 meses y no cuentes con la beca del Estado Chileno, tendrás acceso a los siguientes descuentos: 
+Una vez que cuentes con tu nuevo empleo, elegirás el número de cuotas mensuales para realizar tu pago.
+
+En caso de que pagues en menos de 18 meses tendrás acceso a los siguientes descuentos:
 
 - Plazo máximo de pago: 18 meses / Descuento: 7.5%
+
 - Plazo máximo de pago: 12 meses / Descuento: 15%
+
+Estos descuentos no aplican si cuentas con la beca del Estado Chileno o bien, si has optado por pagar el 28% de tu remuneración mensual bruta por 24 meses.
 
 ### (a) ¿En qué consiste la beca del Estado Chileno? 
  
