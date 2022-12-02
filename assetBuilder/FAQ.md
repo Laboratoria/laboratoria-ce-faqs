@@ -502,7 +502,7 @@ El precio del programa es de USD 3,500 y podrás pagarlo hasta en 24 meses. Este
  
 🇵🇪 Perú: S/. 13,200 soles
 
-🇨🇱 Chile: $1.950.000 pesos chilenos**
+🇨🇱 Chile: $2.950.000 pesos chilenos**
 
 🇲🇽 México: $72,000 pesos mexicanos
 
