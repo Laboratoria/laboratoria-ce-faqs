@@ -493,7 +493,7 @@ https://laboratoria.typeform.com/to/mMhN6v8u#cohortid=xxxxx&student=xxxxx&email=
 
 Si, pero recuerda que nuestro objetivo principal es la empleabilidad, es decir acompañamos de cerca a nuestras egresadas en el proceso de encontrar un trabajo. La mayoría de empresas con las que nos relacionamos durante estos procesos, se encuentran en las ciudades donde tenemos sede (Lima, Santiago de Chile, Quito, Ciudad de México y Bogotá) por lo que es importante tengas en consideración que existe una posibilidad que el empleo al que postules en un futuro próximo requiera de tu disponibilidad completa (quizás de manera presencial) en la ciudad de la sede a la que has postulado, así que te pedimos lo tengas en cuenta.
 
-
+<!-- 
 ## Precio del programa
 
 ### ¿Cuál es el precio del programa?
@@ -559,7 +559,7 @@ Los requisitos para recibir esta beca son:
 
 - Contar con carnet de identidad vigente emitido por el Estado Chileno durante todo los meses que dure el bootcamp.
 - Llevar a cabo las actividades asociadas a esta beca como el registro y algunas evaluaciones que se desarrollarán durante el Bootcamp, donde Laboratoria te estará acompañando. Es importante resaltar que esto requerirá una inversión adicional de tiempo. 
-
+ -->
   
 ## Empleabilidad
 
